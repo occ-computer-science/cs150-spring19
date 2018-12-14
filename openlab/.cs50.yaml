@@ -3,5 +3,5 @@ lab50:
     - editor
     - terminal
   files:
-    - !client.cpp
-    - !makefile
+    - !include client.cpp
+    - !include makefile
