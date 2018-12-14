@@ -1,7 +1,1 @@
 lab50:
-  windows:
-    - editor
-    - terminal
-  files:
-    - client.cpp
-    - makefile
