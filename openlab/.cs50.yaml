@@ -4,4 +4,3 @@ lab50:
     - terminal
   files:
     - !include client.cpp
-    - !include makefile
