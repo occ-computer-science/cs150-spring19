@@ -1,4 +1,4 @@
-EXE = app
+EXE = client
 CXX = @clang++
 CXXFLAGS = -ggdb3 -O0 -std=c++14 -Wall -Wextra -Wshadow
 SRC = $(EXE).cpp
